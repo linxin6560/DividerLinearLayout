@@ -1,0 +1,42 @@
+
+Š squid:ForLoopCounterChangedCheckƒ	"XRefactor the code in order to not assign to this loop counter from within the loop body.(èêÄ„ÿÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck”""Add a default case to this switch.(…ÃìÙ
+Š squid:ForLoopCounterChangedCheck˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(èêÄ„ÿÿÿÿÿ
+dsquid:S00112÷"FDefine and throw a dedicated exception instead of using a generic one.(„ñèÎúÿÿÿÿ
+Gsquid:S1066ú"/Merge this if statement with the enclosing one.(¨äûª
+Osquid:S1135æ	"2Complete the task associated to this TODO comment.(Ş›Èšşÿÿÿÿ
+Osquid:S1135â"2Complete the task associated to this TODO comment.(Ş›Èšşÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck´"XRefactor the code in order to not assign to this loop counter from within the loop body.(èêÄ„ÿÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(±—ÚÊùÿÿÿÿ
+Jsquid:S1135‰"2Complete the task associated to this TODO comment.(´‰Ê‡
+Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(èêÄ„ÿÿÿÿÿ
+dsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(„ñèÎúÿÿÿÿ
+osquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(£Û¼ùûÿÿÿÿ
+Isquid:S1135"2Complete the task associated to this TODO comment.(‹Ö 
+Š squid:ForLoopCounterChangedCheck "XRefactor the code in order to not assign to this loop counter from within the loop body.(èêÄ„ÿÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¦	"XRefactor the code in order to not assign to this loop counter from within the loop body.(èêÄ„ÿÿÿÿÿ
+csquid:S1301”"KReplace this "switch" statement by "if" statements to increase readability.(…ÃìÙ
+\squid:S1134ï
+"DTake the required action to fix the issue indicated by this comment.(§‘©
+Osquid:S1135¥
+"2Complete the task associated to this TODO comment.(ËÍ½Èûÿÿÿÿ
+psquid:S3776à"SRefactor this method to reduce its Cognitive Complexity from 152 to the 15 allowed.(×µùÿÿÿÿ
+^squid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(¡¡ß{
+jsquid:S3776”"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(§Áº
+Š squid:ForLoopCounterChangedCheck¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(èêÄ„ÿÿÿÿÿ
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(š²åÑ
+\squid:S1134Ê"DTake the required action to fix the issue indicated by this comment.(§‘©
+†"squid:ClassVariableVisibilityCheck¬"RMake weight a static final constant or non-public and provide accessors if needed.(«­³·ûÿÿÿÿ
+osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ìà¿Äıÿÿÿÿ
+Gsquid:S1066Ø"/Merge this if statement with the enclosing one.(¨äûª
+p
+squid:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(¢Ú ­
+p
+squid:S135£"YReduce the total number of break and continue statements in this loop to use at most one.(¢Ú ­
+p
+squid:S135	"YReduce the total number of break and continue statements in this loop to use at most one.(¢Ú ­
+csquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ŞåŠÂ
+p
+squid:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(¢Ú ­
+‚"squid:ClassVariableVisibilityCheck³"SMake gravity a static final constant or non-public and provide accessors if needed.(å˜ø©
+osquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸ƒ¦Ùüÿÿÿÿ

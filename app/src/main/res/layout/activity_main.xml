@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.levylin.widget.DividerLinearLayout
+        android:id="@+id/test_dll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        app:d_divider="@drawable/divider"
+        app:d_innerDividerPaddingLeft="40dp"
+        app:d_innerDividerPaddingRight="10dp"
+        app:d_showDividers="beginning|middle|end"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/random_gone_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="随机隐藏子项"
+        app:layout_constraintTop_toBottomOf="@id/test_dll" />
+
+
+</android.support.constraint.ConstraintLayout>

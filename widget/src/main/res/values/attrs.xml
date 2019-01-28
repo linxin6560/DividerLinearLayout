@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DividerLinearLayout">
+        <attr name="android:orientation" />
+        <attr name="android:gravity" />
+        <attr name="android:baselineAligned" />
+        <attr name="android:baselineAlignedChildIndex" />
+        <attr name="android:weightSum" />
+        <attr name="d_measureWithLargestChild" format="boolean" />
+        <attr name="d_divider" format="reference" />
+        <attr name="d_showDividers">
+            <flag name="none" value="0" />
+            <flag name="beginning" value="1" />
+            <flag name="middle" value="2" />
+            <flag name="end" value="4" />
+        </attr>
+        <attr name="d_innerDividerPaddingLeft" format="dimension" />
+        <attr name="d_innerDividerPaddingRight" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="DividerLinearLayout_Layout">
+        <attr name="android:layout_width" />
+        <attr name="android:layout_height" />
+        <attr name="android:layout_weight" />
+        <attr name="android:layout_gravity" />
+    </declare-styleable>
+</resources>
